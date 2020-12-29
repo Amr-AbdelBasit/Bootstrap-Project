@@ -1,3 +1,5 @@
-file:///E:/Amr%20-%20PWD/Responsive%20Web%20Design/Project/index.html
+GitHub:
+https://github.com/Amr-AbdelBasit/Bootstrap-Project
 
-GitHub: 
+Hosting:
+https://amr-abdelbasit.github.io/Bootstrap-Project/ 
